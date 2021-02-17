@@ -1,10 +1,2 @@
 
-server:
-  port: 3355
-#暴露监控端口
-management:
-  endpoint:
-  endpoints:
-    web:
-      exposure:
-        exclude: "*"
+
